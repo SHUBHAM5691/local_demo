@@ -1,2 +1,2 @@
 this my local repo
-feture2
+feature 2
